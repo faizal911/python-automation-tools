@@ -1,0 +1,11 @@
+Report generated on: 07-06-2026
+Student of the Day: Faizal
+
+--- All Students ---
+Student: Faizal | Marks: 85 | Grade: A
+Student: Ravi | Marks: 72 | Grade: B
+Student: Ayesha | Marks: 91 | Grade: A
+Student: Zara | Marks: 55 | Grade: C
+Student: Omar | Marks: 78 | Grade: B
+
+Average Marks: 76.2
